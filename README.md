@@ -8,6 +8,18 @@
 
 ### HTML, CSS and GIT were used in this project.
 
+## Screenshot of Project
+
+![Alt text](/relative/path/to/screenshot.jpg "Optional Title")
+
+## Deployed Site Address
+
+[a link](https://checkers-gm.github.io/urban-octo-telegram-2/)
+
+
+
+
+
 
 
 
