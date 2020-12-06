@@ -10,11 +10,11 @@
 
 ## Screenshot of Project
 
-![Alt text](/relative/path/to/screenshot.jpg "Optional Title")
+![Screenshot of Project](https://github.com/[checkers-GM]/[urban-octo-telegram-2]/blob/[main]/screenshot.jpg?raw=true)
 
 ## Deployed Site Address
 
-[a link](https://checkers-gm.github.io/urban-octo-telegram-2/)
+[Click Here](https://checkers-gm.github.io/urban-octo-telegram-2/)
 
 
 
