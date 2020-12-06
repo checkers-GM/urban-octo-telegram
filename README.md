@@ -10,7 +10,7 @@
 
 ## Screenshot of Project
 
-![Screenshot of Project](https://github.com/[checkers-GM]/[urban-octo-telegram-2]/blob/[main]/screenshot.jpg?raw=true)
+![Screenshot of Project](https://github.com/[checkers-GM]/[urban-octo-telegram-2]/blob/[main]/https://raw.githubusercontent.com/checkers-GM/urban-octo-telegram-2/main/screenshot.jpg)
 
 ## Deployed Site Address
 
